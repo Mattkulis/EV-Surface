@@ -3,8 +3,9 @@ Minimum Win Probability vs Minimum Return for Positive EV
 
 ** Modify L for max drawdown in associated model
 
-[Visualization] HTML file with 3D rendering of surface
-<img width="840" height="690" alt="image" src="https://github.com/user-attachments/assets/cc143af5-d2e6-461c-945b-36f4c77f0141" />
+[Visualization] EV 3D surface rendering
+
+<img width="1603" height="958" alt="image" src="https://github.com/user-attachments/assets/c6488263-4fa5-40f9-9bb3-f8ad31e8c8eb" />
 
 
 <img width="700" height="470" alt="download" src="https://github.com/user-attachments/assets/d3d972b2-6fd2-4867-bcfb-1a0198b0258b" />
