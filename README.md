@@ -1,7 +1,7 @@
 # Minimum-Win-Probability-vs-Minimum-Return-for-Positive-EV
 Minimum Win Probability vs Minimum Return for Positive EV
 
-** Modify L for max drawdown in associated model
+** For code.py, manually set L to represent the expected loss as a fraction of the bet size (e.g., L = 0.55 means that 55% of the bet size is lost each time a loss occurs).
 
 [Visualization] EV 3D surface rendering
 
